@@ -21,6 +21,9 @@ IOS、Android通用的文件选择工具
 [**react-native-document-picker**](https://github.com/Elyx0/react-native-document-picker)
 另一个文件选择工具，如果使用react-native-file-selector有有问题的，用这个
 
+[**react-native-orientation**](https://github.com/yamill/react-native-orientation)
+横竖屏的设定、监测
+
 ## 网络通信相关
 [**react-native-udp**](https://github.com/tradle/react-native-udp)
 如果需要发广播包，可以选用
